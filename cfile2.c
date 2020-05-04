@@ -1,5 +1,5 @@
-#include<>[D[D  <stdio.h>
-int main()[Dvoid)
+#include <stdio.h>
+int main(void)
 {
-	printf()[D"file2");
+	printf("file2");
 }
